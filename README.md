@@ -2,24 +2,11 @@
 
 This folder contains all of the replication materials for:
 
-Lupu, Noam, and Zach Warner. Forthcoming. "Why Are the Affluent Better Represented Around the World?" **European Journal of Political Research**.
+Lupu, Noam, and Zach Warner. Forthcoming. "Why Are the Affluent Better Represented Around the World?" *European Journal of Political Research*.
 
 # Manifest
 
 The folder structure is as follows:
-
-data/
-... Lupu-Warner-Why-Are.csv
-logs/
-... Dockerfile
-results/
-... variable-importances/
-scripts/
-... Lupu-Warner-Why-Are.R
-Lupu-Warner-Why-Are.sh
-README.md
-
-# File description
 
 - /data/Lupu-Warner-Why-Are.csv provides all of the data used in the manuscript and in the Online Appendix.
 - /logs/Dockerfile is the Dockerfile from which the replication Docker image was built. Note that this is unlikely to compile now; it is provided merely for historical reference.
